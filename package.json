@@ -1,0 +1,25 @@
+{
+  "name": "bitcoin-address-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "dependencies": {
+    "bip32": "^1.0.2",
+    "bip39": "^2.5.0",
+    "bitcoinjs-lib": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainet/bitcoin-address-generator.git"
+  },
+  "author": "Roman Mandryk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchainet/bitcoin-address-generator/issues"
+  },
+  "homepage": "https://github.com/unchainet/bitcoin-address-generator#readme"
+}
